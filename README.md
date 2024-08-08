@@ -5,15 +5,16 @@
 The app allows users to view crime data, track specific crime types, and filter incidents based on various criteria such as location, date, and crime type.
 
 Features
-->Crime Data Visualization: View crime incidents on an interactive map with precise location markers.
 
-->Filter and Search: Filter crimes based on type, date, and location to get relevant results.
+-> Crime Data Visualization: View crime incidents on an interactive map with precise location markers.
 
-->Live Location Tracking: Track the real-time location of incidents or patrol units on the map.
+-> Filter and Search: Filter crimes based on type, date, and location to get relevant results.
 
-->OTP-Based Authentication: Secure login with OTP verification for officers to ensure authorized access.
+-> Live Location Tracking: Track the real-time location of incidents or patrol units on the map.
 
-->Profile Management: Officers can view and update their profile information, including name, phone number, date of birth, and address.
+-> OTP-Based Authentication: Secure login with OTP verification for officers to ensure authorized access.
+
+-> Profile Management: Officers can view and update their profile information, including name, phone number, date of birth, and address.
 
 ScreenShot
 
