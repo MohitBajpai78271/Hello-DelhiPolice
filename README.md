@@ -1,6 +1,5 @@
 #Github
-#ConstableOnPatrol
-ConstableOnPatrol is an iOS app designed to assist law enforcement officers by providing a seamless interface to monitor crime incidents in their jurisdiction. The app allows users to view crime data, track specific crime types, and filter incidents based on various criteria such as location, date, and crime type.
+#ConstableOnPatrol is an iOS app designed to assist law enforcement officers by providing a seamless interface to monitor crime incidents in their jurisdiction. The app allows users to view crime data, track specific crime types, and filter incidents based on various criteria such as location, date, and crime type.
 
 Features
 ->Crime Data Visualization: View crime incidents on an interactive map with precise location markers.
